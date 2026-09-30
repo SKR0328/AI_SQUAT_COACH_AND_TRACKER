@@ -1,0 +1,7 @@
+streamlit>=1.43,<2
+streamlit-webrtc>=0.47,<1
+mediapipe==0.10.35
+opencv-contrib-python>=4.11,<6
+numpy>=2.3,<3
+pillow>=10.0,<12
+requests>=2.32,<3
